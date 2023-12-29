@@ -32,7 +32,7 @@ const chartOptions = {
 const chartData =  {
   labels: ["Jail", "Parole", "State Prison", "Probation", "Federal Prison"],
   datasets: [{
-    backgroundColor: ['#41B883', '#E46651', '#00D8FF', '#DD1B16'],
+    backgroundColor: ['#FFC329', '#A4E51B','#E23110','#FF7A1A', '#FF0000'],
     data:[1600,2000,2100,3600,420]},]
 }
 
